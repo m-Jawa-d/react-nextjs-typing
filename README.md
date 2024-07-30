@@ -89,3 +89,4 @@ If you have any questions or feedback, feel free to contact us at chudhryjawad@g
 Thank you for visiting the Typing Test App repository! We hope you find it useful and fun. Don't forget to star the repo and happy typing!
 
 ![Typing Test](https://github.com/m-Jawa-d/react-nextjs-typing/blob/main/public/one.png)
+![Typing Test](https://github.com/m-Jawa-d/react-nextjs-typing/blob/main/public/two.png)
