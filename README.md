@@ -76,10 +76,6 @@ We welcome contributions to enhance this project! Here are some ways you can con
 5. Push your changes to your forked repository.
 6. Create a pull request to merge your changes into the main repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 If you have any questions or feedback, feel free to contact us at chudhryjawad@gmail.com.
