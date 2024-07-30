@@ -1,36 +1,91 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Typing Test App
+
+Welcome to the Typing Test App! This is a simple typing test application built with Next.js and React. The app presents a series of words for users to type, measures typing speed (WPM), and provides options to restart or stop the test.
+
+## Features
+
+- Presents a variety of words for typing practice
+- Measures and displays typing speed in words per minute (WPM)
+- Allows users to restart or stop the typing test
+- Clean and responsive UI
+
+## Demo
+
+Check out the live demo of the Typing Test App: [Typing Test Demo](https://react-nextjs-typing.vercel.app/)
 
 ## Getting Started
 
-First, run the development server:
+Follow these steps to get a local copy of the project up and running on your machine.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Make sure you have the following installed:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Node.js (>=14.x)
+- npm (>=6.x)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Installation
 
-## Learn More
+1. Clone the repository:
 
-To learn more about Next.js, take a look at the following resources:
+    ```bash
+    git clone https://github.com/m-Jawa-d/react-nextjs-typing.git
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Navigate to the project directory:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+    ```bash
+    cd typing-test-app
+    ```
 
-## Deploy on Vercel
+3. Install the dependencies:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    ```bash
+    npm install
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+4. Start the development server:
+
+    ```bash
+    npm run dev
+    ```
+
+5. Open your browser and visit `http://localhost:3000` to see the app in action.
+
+## Usage
+
+- Start typing the words presented on the screen.
+- Your typing speed (WPM) will be calculated and displayed.
+- Use the "Restart Test" button to restart the test at any time.
+- Use the "Stop Test" button to stop the test.
+
+## Contributing
+
+We welcome contributions to enhance this project! Here are some ways you can contribute:
+
+- **Star the Repo**: If you find this project useful, please consider starring the repository.
+- **Submit Issues**: If you find any bugs or have suggestions for improvements, please create an issue.
+- **Pull Requests**: We welcome pull requests. Please fork the repository and create a new branch for your contribution. 
+
+### How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Make your changes.
+4. Commit your changes with a descriptive commit message.
+5. Push your changes to your forked repository.
+6. Create a pull request to merge your changes into the main repository.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+If you have any questions or feedback, feel free to contact us at chudhryjawad@gmail.com.
+
+---
+
+Thank you for visiting the Typing Test App repository! We hope you find it useful and fun. Don't forget to star the repo and happy typing!
+
+![Typing Test](https://react-nextjs-typing.vercel.app/)
