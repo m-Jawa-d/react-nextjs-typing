@@ -11,7 +11,7 @@ Welcome to the Typing Test App! This is a simple typing test application built w
 
 ## Demo
 
-Check out the live demo of the Typing Test App: [Typing Test Demo](#[https://react-nextjs-typing.vercel.app/])
+Check out the live demo of the Typing Test App: [Typing Test Demo](https://react-nextjs-typing.vercel.app/)
 
 ## Getting Started
 
@@ -88,4 +88,4 @@ If you have any questions or feedback, feel free to contact us at chudhryjawad@g
 
 Thank you for visiting the Typing Test App repository! We hope you find it useful and fun. Don't forget to star the repo and happy typing!
 
-![Typing Test](https://your-image-url.png)
+![Typing Test](https://react-nextjs-typing.vercel.app/)
