@@ -61,11 +61,11 @@ Make sure you have the following installed:
 
 ## Contributing
 
-We welcome contributions to enhance this project! Here are some ways you can contribute:
+I welcome contributions to enhance this project! Here are some ways you can contribute:
 
 - **Star the Repo**: If you find this project useful, please consider starring the repository.
 - **Submit Issues**: If you find any bugs or have suggestions for improvements, please create an issue.
-- **Pull Requests**: We welcome pull requests. Please fork the repository and create a new branch for your contribution. 
+- **Pull Requests**: I welcome pull requests. Please fork the repository and create a new branch for your contribution. 
 
 ### How to Contribute
 
@@ -78,7 +78,7 @@ We welcome contributions to enhance this project! Here are some ways you can con
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact us at chudhryjawad@gmail.com.
+If you have any questions or feedback, feel free to contact me at chudhryjawad@gmail.com.
 
 ---
 
