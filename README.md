@@ -86,3 +86,5 @@ Thank you for visiting the Typing Test App repository! We hope you find it usefu
 
 ![Typing Test](https://github.com/m-Jawa-d/react-nextjs-typing/blob/main/public/one.png)
 ![Typing Test](https://github.com/m-Jawa-d/react-nextjs-typing/blob/main/public/two.png)
+
+Powered by Chatgpt 4o
